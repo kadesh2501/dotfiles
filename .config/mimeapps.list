@@ -1,0 +1,10 @@
+[Added Associations]
+application/zip=org.kde.ark.desktop;
+text/plain=com.visualstudio.code.desktop;
+
+[Default Applications]
+application/zip=org.kde.ark.desktop;
+text/plain=com.visualstudio.code.desktop;
+
+[Removed Associations]
+application/zip=org.ppsspp.PPSSPP.desktop;
