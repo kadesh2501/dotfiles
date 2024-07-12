@@ -1,5 +1,10 @@
-[Mouse]
-cursorTheme=breeze_cursors
+[Libinput][1133][49970][Logitech Gaming Mouse G502]
+PointerAcceleration=0.100
+PointerAccelerationProfile=1
 
-[Keyboard]
-NumLock=0
+[Libinput][1133][50497][Logitech USB Receiver]
+PointerAcceleration=0.100
+PointerAccelerationProfile=1
+
+[Mouse]
+X11LibInputXAccelProfileFlat=true
